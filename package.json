@@ -1,0 +1,22 @@
+{
+  "name": "gamecorner.org-new",
+  "version": "1.0.0",
+  "description": "The Game Corner Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Game-Corner/gamecorner.org-new.git"
+  },
+  "author": "Game Corner Community",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Game-Corner/gamecorner.org-new/issues"
+  },
+  "homepage": "https://github.com/Game-Corner/gamecorner.org-new#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
